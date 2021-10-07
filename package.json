@@ -1,0 +1,24 @@
+{
+  "name": "COC_Helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cccoding365/COC_Helper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cccoding365/COC_Helper/issues"
+  },
+  "homepage": "https://github.com/cccoding365/COC_Helper#readme"
+}
